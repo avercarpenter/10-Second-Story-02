@@ -3,7 +3,9 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - cat
+  - Star
   layers:
   - Default
   - TransparentFX
@@ -40,4 +42,13 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Partic;e
+    uniqueID: 1566135113
+    locked: 0
+  - name: Back
+    uniqueID: 1408945523
+    locked: 0
+  - name: Front
+    uniqueID: 2076998759
     locked: 0
